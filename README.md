@@ -1,8 +1,13 @@
-# webpack-template
+# Recursion
 
-## Reinstall webpack first
-
-After using and cloning to your local directory, Reinstall webpack first
+## Fibonacci Sequence
+To run the file:
 ```
-npm install --save-dev webpack webpack-cli
+npm run fib
+```
+
+## Fibonacci Sequence
+To run the file:
+```
+npm run merge-sort
 ```
