@@ -1,7 +1,9 @@
 {
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "fib": "node src/fibonacci.js",
+    "merge-sort": "node src/merge-sort.js"
   },
   "devDependencies": {
     "@eslint/js": "^9.27.0",
